@@ -6,4 +6,5 @@ def factorial(n):
         result *= i
     return result
 
-print(factorial(5))
+for r in range(1, 11):
+    print(factorial(r))
