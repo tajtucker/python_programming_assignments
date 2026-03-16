@@ -1,0 +1,13 @@
+﻿TNumber,Lastname,Firstname,Major,Classification,GPA,ACT
+T00111111,Jones,Chris,CS,Senior,3.5,32
+T00121212,Dodd,David,Mathematics,Junior,3.45,29
+T00123456,Brown,Cassandra,History,Sophomore,2.97,31
+T00616654,Bowie,John,Engineering,Frehman,3.21,28
+T00345678,Boyland,Jeffrey,,Senior,3.87,34
+T00232323,Wilson,Rebecca,Mathematics,Senior,2.52,30
+T00345678,Boyland,Jeffrey,CS,Senior,3.87,34
+T00121212,Dodd,David,Mathematics,Junior,3.45,29
+T00567234,,Cassandra,,Sophomore,2.97,31
+T00001223,Bowie,Emir,Physics,Frehman,3.21,3078
+T00047902,Boyland,Mert,CS,Senior,3.87,
+T00233498,Wilson,Rebecca,Chemistry,Senior,1.87,30
